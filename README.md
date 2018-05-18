@@ -16,6 +16,7 @@ Before the program simulates tracking and guidance it will have to generate an i
 Tracking will be performed using simulated tracking systems and Kalman filtering. Real-world tracking systems often have error associated with them. This program will have to simulate the error in addition to performing the same tracking methods.
 
 4. Simulate control
+
 Rocket dynamics will be simulated and guided as directed by the tracking subroutines.
 
 ## Project stages
